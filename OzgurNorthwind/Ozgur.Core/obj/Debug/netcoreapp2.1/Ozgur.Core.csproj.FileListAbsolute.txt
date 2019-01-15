@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\bin\Debug\netcoreapp2.1\Ozgur.Core.deps.json
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\bin\Debug\netcoreapp2.1\Ozgur.Core.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\obj\Debug\netcoreapp2.1\Ozgur.Core.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\obj\Debug\netcoreapp2.1\Ozgur.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\obj\Debug\netcoreapp2.1\Ozgur.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\obj\Debug\netcoreapp2.1\Ozgur.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\bin\Debug\netcoreapp2.1\Ozgur.Core.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\obj\Debug\netcoreapp2.1\Ozgur.Core.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Core\obj\Debug\netcoreapp2.1\Ozgur.Core.pdb

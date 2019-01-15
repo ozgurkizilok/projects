@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Business.deps.json
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Business.dll
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Business.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.dll
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Core.dll
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.dll
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.dll
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Core.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Abc.Northwind.Business\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Business.csproj.CopyComplete

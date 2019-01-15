@@ -1,0 +1,61 @@
+﻿@using Microsoft.AspNetCore.Identity.UI.Services
+@model Ozgur.Northwind.MvcWebUI.Models.CartListViewModel
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<h2>Your Cart</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Unit Price</th>
+            <th>Units In Stock</th>
+            <th>Quantity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Cart.CartLines)
+        {
+            <tr>
+                <td>@item.Product.ProductName</td>
+                <td>@item.Product.UnitPrice</td>
+                <td>@item.Product.UnitsInStock</td>
+                <td>@item.Quantity</td>
+                <td class="text-rigth"><a class="btn btn-danger btn-sm" asp-controller="Cart" asp-action="Remove" asp-route-productId="@item.Product.ProductId"><i class="fas fa-trash-alt"></i>Remove From Cart</a></td>
+            </tr>
+        }
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <h3>Total</h3>
+            </td>
+            <td class="text-rigth">
+                <h3>
+                    <strong>@Model.Cart.Total</strong>
+                </h3>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>
+                <a asp-controller="Product" asp-action="Index" class="btn  btn-info btn-sm">
+                    <i class="fas fa-shopping-cart"></i> Continue Shopping
+                </a>
+            </td>
+            <td>
+                <a asp-controller="Cart" asp-action="Complete" class="btn  btn-success btn-sm">
+                    <i class="fas fa-shopping-cart"></i> Go to check out
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+

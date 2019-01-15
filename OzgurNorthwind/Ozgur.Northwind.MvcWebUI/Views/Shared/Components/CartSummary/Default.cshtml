@@ -1,0 +1,14 @@
+﻿@model Ozgur.Northwind.MvcWebUI.Models.CartSummaryViewModel
+
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+    @foreach (var item in Model.Cart.CartLines)
+    {
+        <a class="dropdown-item" href="#">@item.Product.ProductName <span class="badge badge-info">@item.Quantity</span></a>
+
+    }
+
+    <a class="dropdown-item"><i class="fas fa-cart-plus"></i>@Model.Cart.Total</a>
+
+    <a class="dropdown-item" asp-controller="Cart" asp-action="List">Go to cart details</a>
+
+</div>

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.deps.json
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Core.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Core.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Ozgur.Northwind.DataAccess.csproj.CopyComplete

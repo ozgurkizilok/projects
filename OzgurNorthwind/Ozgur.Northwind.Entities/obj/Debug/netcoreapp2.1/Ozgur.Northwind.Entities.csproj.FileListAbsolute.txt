@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.deps.json
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\bin\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\bin\Debug\netcoreapp2.1\Ozgur.Core.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\bin\Debug\netcoreapp2.1\Ozgur.Core.pdb
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.csproj.CopyComplete
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.dll
+C:\Users\user\Desktop\Projects\Ozgur\Ozgur.Northwind.Entities\obj\Debug\netcoreapp2.1\Ozgur.Northwind.Entities.pdb
